@@ -11,6 +11,9 @@
 
 - <a href="https://www.youtube.com/watch?v=uIBfznhRL5o">📎 구동 영상</a>
 
+## Back-end github
+- <a href="https://github.com/wecode-bootcamp-korea/39-1st-39cm-backend">📎 BE Github로 이동</a> 
+
 ## 👩‍💻 DB Modeling
 
 ![39cm DB modeling](https://user-images.githubusercontent.com/110847597/203906351-09a7dd29-fc7f-4959-a0d7-83225021cbbb.png)
